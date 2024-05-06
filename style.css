@@ -1,0 +1,19 @@
+a{
+    color: white;
+    text-decoration: none;
+}
+.bag{
+    display: flex;
+    justify-content: none;
+}
+.bag li{
+    list-style: none;
+}
+#john{
+    display: flex;
+    justify-content: space-between;
+}
+#john li{
+    color: red;
+    
+}
